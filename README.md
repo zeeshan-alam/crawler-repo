@@ -16,3 +16,11 @@
 
 
 
+#Limitation
+1. This program is suitable for small/medium website. It could run into memory issues for some websites with lots of content/links(e.g. Big Data website).
+2. This is not multithreaded application so performance is slow as compared to available crawler in the market.
+
+
+
+
+
